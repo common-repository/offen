@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Offen\n"
+"POT-Creation-Date: 2023-01-25 13:02+0100\n"
+"PO-Revision-Date: 2023-01-25 13:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: offen.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Admin/AdminArea.php:10
+msgid "Open-Configuration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: Admin/AdminArea.php:10 offen.php:42 offen.php:44 offen.php:46
+msgid "Open"
+msgstr ""
+
+#: Admin/AdminArea.php:118
+msgid "The closing time cannot be below the opening time"
+msgstr ""
+
+#: Admin/AdminArea.php:119 Admin/AdminArea.php:398
+msgid "Remove entry"
+msgstr ""
+
+#: Admin/AdminArea.php:120 Admin/AdminArea.php:373 Admin/AdminArea.php:422
+msgid "New entry"
+msgstr ""
+
+#: Admin/AdminArea.php:121 Admin/AdminArea.php:396
+msgid "From"
+msgstr ""
+
+#: Admin/AdminArea.php:122 Admin/AdminArea.php:397
+msgid "To"
+msgstr ""
+
+#: Admin/AdminArea.php:207
+msgid "General"
+msgstr ""
+
+#: Admin/AdminArea.php:208 offen.php:49
+msgid "Company"
+msgstr ""
+
+#: Admin/AdminArea.php:209 Admin/Widget.php:9 offen.php:41
+msgid "Opening hours"
+msgstr ""
+
+#: Admin/AdminArea.php:210
+msgid "Seasonal opening hours"
+msgstr ""
+
+#: Admin/AdminArea.php:211
+msgid "Styling"
+msgstr ""
+
+#: Admin/AdminArea.php:212
+msgid "Preview"
+msgstr ""
+
+#: Admin/AdminArea.php:213
+msgid "Widget"
+msgstr ""
+
+#: Admin/AdminArea.php:214
+msgid "Code"
+msgstr ""
+
+#: Admin/AdminArea.php:225
+msgid "Title"
+msgstr ""
+
+#: Admin/AdminArea.php:230
+msgid "Text: Currently opened"
+msgstr ""
+
+#: Admin/AdminArea.php:235
+msgid "Text: Currently closed"
+msgstr ""
+
+#: Admin/AdminArea.php:240
+msgid "Texts: Opened/Closed"
+msgstr ""
+
+#: Admin/AdminArea.php:248
+msgid "Opening hours text: Open all day"
+msgstr ""
+
+#: Admin/AdminArea.php:255
+msgid "Opening hours text: Closed all day"
+msgstr ""
+
+#: Admin/AdminArea.php:261
+msgid "Opening hours: Group same days or show them separately"
+msgstr ""
+
+#: Admin/AdminArea.php:266
+msgid "Group"
+msgstr ""
+
+#: Admin/AdminArea.php:266
+msgid "Show separately"
+msgstr ""
+
+#: Admin/AdminArea.php:279
+msgid "Weekdays: Short or full spelling"
+msgstr ""
+
+#: Admin/AdminArea.php:284
+msgid "Short"
+msgstr ""
+
+#: Admin/AdminArea.php:284
+msgid "Full"
+msgstr ""
+
+#: Admin/AdminArea.php:297
+msgid "Timezone"
+msgstr ""
+
+#: Admin/AdminArea.php:299
+msgid "Offset"
+msgstr ""
+
+#: Admin/AdminArea.php:300
+msgid "WordPress Server Time"
+msgstr ""
+
+#: Admin/AdminArea.php:301
+msgid ""
+"The server time needs to be set to the current time to ensure that the "
+"display of \"opened\" and \"closed\" functions properly. You can either "
+"specify the server time in the WordPress settings or set an offset above."
+msgstr ""
+
+#: Admin/AdminArea.php:306
+msgid "Date format"
+msgstr ""
+
+#: Admin/AdminArea.php:318
+msgid "Short (e.g. \"12\")"
+msgstr ""
+
+#: Admin/AdminArea.php:320
+msgid "Full (e.g. \"12.02\")"
+msgstr ""
+
+#: Admin/AdminArea.php:326
+msgid "Midnight time format"
+msgstr ""
+
+#: Admin/AdminArea.php:338
+msgid "00:00"
+msgstr ""
+
+#: Admin/AdminArea.php:340
+msgid "24:00"
+msgstr ""
+
+#: Admin/AdminArea.php:434
+msgid "Add new entry"
+msgstr ""
+
+#: Admin/AdminArea.php:440
+msgid "Company name"
+msgstr ""
+
+#: Admin/AdminArea.php:444
+msgid "Contact person"
+msgstr ""
+
+#: Admin/AdminArea.php:448
+msgid "Telephone number"
+msgstr ""
+
+#: Admin/AdminArea.php:452
+msgid "Fax number"
+msgstr ""
+
+#: Admin/AdminArea.php:456 templates/widget/style1.php:62
+#: templates/widget/style5.php:62
+msgid "E-Mail"
+msgstr ""
+
+#: Admin/AdminArea.php:460
+msgid "Website"
+msgstr ""
+
+#: Admin/AdminArea.php:464
+msgid "Address"
+msgstr ""
+
+#: Admin/AdminArea.php:468
+msgid "Postal code"
+msgstr ""
+
+#: Admin/AdminArea.php:472
+msgid "City"
+msgstr ""
+
+#: Admin/AdminArea.php:483
+msgid ""
+"There are 4 styles for embedding the plugin as a widget or a shortcode. "
+"Style 1 - Style 3 need more space and are recommended for separate sub-"
+"pages, for example a dedicated page for the opening hours. Style 4 is "
+"recommended for usage within the sidebar widget or as a footer widget."
+msgstr ""
+
+#: Admin/AdminArea.php:486
+msgid "Color: Background primary"
+msgstr ""
+
+#: Admin/AdminArea.php:490
+msgid "Color: Background secondary"
+msgstr ""
+
+#: Admin/AdminArea.php:494
+msgid "Color: Background tertiary"
+msgstr ""
+
+#: Admin/AdminArea.php:499
+msgid "Color: Background Badge - Open"
+msgstr ""
+
+#: Admin/AdminArea.php:504
+msgid "Color: Background Badge - Closed"
+msgstr ""
+
+#: Admin/AdminArea.php:509
+msgid "Color: Text primary"
+msgstr ""
+
+#: Admin/AdminArea.php:513
+msgid "Color: Text secondary"
+msgstr ""
+
+#: Admin/AdminArea.php:518
+msgid "Color: Text Tertiary"
+msgstr ""
+
+#: Admin/AdminArea.php:523
+msgid "Color: Text Badge - Open"
+msgstr ""
+
+#: Admin/AdminArea.php:528
+msgid "Color: Text Badge - Closed"
+msgstr ""
+
+#: Admin/AdminArea.php:533
+msgid "Header Icon Class (FontAwesome)"
+msgstr ""
+
+#: Admin/AdminArea.php:535
+msgid "You can find more icon-codes at"
+msgstr ""
+
+#: Admin/AdminArea.php:549 Admin/Widget.php:27
+msgid "Sub page - Style 1"
+msgstr ""
+
+#: Admin/AdminArea.php:550 Admin/Widget.php:30
+msgid "Sub page - Style 2"
+msgstr ""
+
+#: Admin/AdminArea.php:551 Admin/Widget.php:33
+msgid "Sub page - Style 3"
+msgstr ""
+
+#: Admin/AdminArea.php:552 Admin/Widget.php:36
+msgid "Sidebar/Footer Style"
+msgstr ""
+
+#: Admin/AdminArea.php:553 Admin/Widget.php:39
+msgid "Tabular form"
+msgstr ""
+
+#: Admin/AdminArea.php:572
+msgid "Please wait."
+msgstr ""
+
+#: Admin/AdminArea.php:578
+msgid "The widget is named \"Open\" and can be set here"
+msgstr ""
+
+#: Admin/AdminArea.php:582
+msgid ""
+"The opening hours can be displayed at any post. A separate style can be "
+"specified for each post."
+msgstr ""
+
+#: Admin/AdminArea.php:583
+msgid "The following text (shortcode) needs to be added to the post:"
+msgstr ""
+
+#: Admin/AdminArea.php:587
+msgid ""
+"The number 1 can be replaced with the number of the desired styled. You can "
+"find all 5 styles at the \"Preview\" tab."
+msgstr ""
+
+#: Admin/AdminArea.php:590
+msgid "Save settings"
+msgstr ""
+
+#: Admin/Widget.php:74
+msgid "Error: Invalid style selected for opening hours"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:25
+msgid "Monday"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:26
+msgid "Tuesday"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:27
+msgid "Wednesday"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:28
+msgid "Thursday"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:29
+msgid "Friday"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:30
+msgid "Saturday"
+msgstr ""
+
+#: Helpers/LanguageHelper.php:31
+msgid "Sunday"
+msgstr ""
+
+#: offen.php:43 offen.php:45 offen.php:47
+msgid "Closed"
+msgstr ""
+
+#: templates/widget/style1.php:29 templates/widget/style2.php:31
+#: templates/widget/style3.php:87 templates/widget/style4.php:55
+msgid "Currently"
+msgstr ""
+
+#: templates/widget/style1.php:58 templates/widget/style2.php:64
+#: templates/widget/style3.php:65 templates/widget/style4.php:85
+#: templates/widget/style5.php:58
+msgid "Telephone"
+msgstr ""
+
+#: templates/widget/style1.php:60 templates/widget/style2.php:66
+#: templates/widget/style3.php:69 templates/widget/style4.php:89
+#: templates/widget/style5.php:60
+msgid "Fax"
+msgstr ""
+
+#: templates/widget/style1.php:74
+msgid "Powered by crosswordsolver.com"
+msgstr "Powered by horairesdouverture24.fr"
+
+#. Description of the plugin/theme
+msgid "Display the company details and the opening hours at your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "OeffnungszeitenBuch.de"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.oeffnungszeitenbuch.de/"
+msgstr ""

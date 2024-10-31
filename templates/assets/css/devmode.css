@@ -1,0 +1,14 @@
+.cd-tabs-content li#displaying p {
+    color: unset;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+#devoutput, #devoutput p, #devoutput li{
+    max-width: 550px;
+}
+
+#devoutput .working_days {
+    line-height: 24px;
+}
